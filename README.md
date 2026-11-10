@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arvi Dato 👋
 
-<!--
-**arvidato/arvidato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with an MSc background in Information Technology, Digitalization & Sustainability, and Software Engineering. I'm interested in software engineering, AI/ML, and building practical applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- Web Development
+- Game Development
+- Cybersecurity
+
+---
+
+### Tech Stack & Tools
+- **Languages:** Java, Python, JavaScript, TypeScript, C#
+- **AI/ML:** PyTorch, Hugging Face, Scikit-learn
+- **Frameworks & Development:** React Native, Expo, FastAPI, Flask
+- **Tools & Software:** Git, GitHub, Figma, Unity, Visual Studio Code, Visual Studio, Aseprite
