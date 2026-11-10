@@ -1,6 +1,6 @@
 # Hi, I'm Arvi Dato 👋
 
-I'm a Software Developer with an MSc background in Information Technology, Digitalization & Sustainability, and Software Engineering. I'm interested in software engineering, AI/ML, and building practical applications.
+I'm a Software Developer with a MSc background in Information Technology, Digitalization & Sustainability, and Software Engineering. I'm interested in software engineering, AI/ML, and building practical applications.
 
 ---
 
