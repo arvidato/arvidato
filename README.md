@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Arvi Dato 👋<br><br>I'm a Software Developer with a MSc background in Information Technology, Digitalization & Sustainability, and Software Engineering. I'm interested in software engineering, AI/ML, and building practical applications.
+Hi, I'm Arvsss 👋<br><br>I'm a Software Developer with a MSc background in Information Technology, Digitalization & Sustainability, and Software Engineering. I'm interested in software engineering, AI/ML, and building practical applications.
 
 ---
 # 🚀 Currently Exploring:
